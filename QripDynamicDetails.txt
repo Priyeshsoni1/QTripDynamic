@@ -1,3 +1,9 @@
 1. Understand how to design webpages using HTML and CSS. 
 2. Make webpages dynamic using JavaScript. 
 3. Deploy the website using Netlify and Render.
+
+Your QTrip website will have these 4 pages
+1.Landing pages
+2.Adventures pages
+3.Adventures detail pages
+4.Reservation pages
